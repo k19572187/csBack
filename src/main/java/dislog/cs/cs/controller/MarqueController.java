@@ -49,5 +49,4 @@ public class MarqueController {
         return service.getAll();
     }
 
-   
 }
